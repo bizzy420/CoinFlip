@@ -483,11 +483,11 @@
 			]
 		},
 		"CoinFlip.sol": {
-			"keccak256": "0x28e666e5eb1bceb4c308feb72b0dcd9de042fe50d5f02541d2533d0fa5d94914",
+			"keccak256": "0x664d6b411a6a79338a335a9d403023b08e1076249a011a0c412a13adb7d69158",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8478467485475ec4e62b73ffde8dddc017b1281752d090dfab2485d17075fcb2",
-				"dweb:/ipfs/QmdT3X5ofFvjpucSyCwPpVC8B9fUiRickB3AyCXzQYQv5U"
+				"bzz-raw://98cb9126e2a1d5f81eb96cb10f53811c19b9f542a6227ef71abfec7211624a47",
+				"dweb:/ipfs/QmQYG55PVPLBHH2vqvuJPYLFxAZZwfrWrqVKBBYUu9BGKE"
 			]
 		}
 	},
